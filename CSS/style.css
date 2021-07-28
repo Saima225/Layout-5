@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rebeccapurple;
+    text-align: center;
+    height: 150px;
+    width: 100%;
+}
+nav{
+    background-color: seagreen;
+    text-align: center;
+    height: 250px;
+    width: 100%;
+}
+.service{
+    background-color: sienna;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
+.all-services{
+    overflow: hidden;
+    text-align: center;
+}
+.service-one{
+background-color: chocolate;
+float: left;
+height: 200px;
+width: 33.33%;
+}
+.service-two{
+background-color: coral;
+float: left;
+height: 200px;
+width: 33.33%;
+}
+.service-three{
+background-color: crimson;
+float: left;
+height: 200px;
+width: 33.33%;
+}
+.service-four{
+    float: left;
+    background-color: cornflowerblue;
+    height: 200px;
+    width: 33.33%;
+}
+.service-five{
+float: left;
+background-color: darkcyan;
+height: 200px;
+width: 33.33%;
+}
+.service-six{
+float: left;
+background-color: darkgreen;
+height: 200px;
+width: 33.33%;
+}
+footer{
+    text-align: center;
+    background-color: darkslategray;
+    height: 200px;
+    
+}
